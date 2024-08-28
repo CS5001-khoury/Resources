@@ -10,6 +10,7 @@ to reach out and schedule time during office hours!
   - [GitHub](#github)
   - [Visual Studio Code](#visual-studio-code)
     - [VS Code Extensions](#vs-code-extensions)
+  - [MS Teams](#ms-teams)
 
 
 
@@ -68,3 +69,6 @@ We will be using [Visual Studio Code](https://code.visualstudio.com/) for a deve
 > The most important stage at this point is getting python working on your computer, and 
 > make sure you meet right away with a TA or instructor to ensure your environment is setup.
 > For those who are attending residency, we will be confirming it is setup on your laptops.
+
+## MS Teams
+While you can access MS Teams through the browser, it is recommend you install the MS Teams application. We use it as the primary means of communication in the course, and it is an industry standard. You can install it by going to  [MS Teams](https://teams.northeastern.edu/) and downloading it. In general, here is the support page for Microsoft Office - https://microsoft365.northeastern.edu/ through Northeastern.
