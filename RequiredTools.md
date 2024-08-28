@@ -9,6 +9,7 @@ to reach out and schedule time during office hours!
   - [GIT](#git)
   - [GitHub](#github)
   - [Visual Studio Code](#visual-studio-code)
+    - [VS Code Extensions](#vs-code-extensions)
 
 
 
@@ -43,7 +44,27 @@ You can check to make sure git is installed properly by typing in your terminal 
 
 ## GitHub
 
+We will be using github to share assignment templates and instructions. Github is considered
+a standard in the industry, and a great place to start building your portfolio. As such, we are asking you to setup a [github.com](https://github.com/). As such, sign up for a Github.com account. We recommend using a professional name that you wouldn't mind sharing with future employers
+
+You can learn more about git and github on the [Resources](Resources.md) page. 
 
 ## Visual Studio Code
 
-We will be using [Visual Studio Code]
+We will be using [Visual Studio Code](https://code.visualstudio.com/) for a development environment for the course. While VS Code has a fair number of features, we encourage you to keep your environment simple for the beginning of the semester. As you progress you will gain more features. Additionally, after you install VS Code, you will need to install the following extensions. 
+
+### VS Code Extensions
+
+* [Python Support](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - essential
+* [Jupyter Notebook Support](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) - used for interactive mode
+* [Mermaid Markdown Preview](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid) - makes instructions easier to read locally
+* [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles) - helps with instructions and report documents.
+* [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) - students often find this useful for team meetings
+* [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)  - completely optional but useful to have
+
+
+> [!IMPORTANT]
+> While it may seem like a lot, many of these tools we will use throughout the semester. 
+> The most important stage at this point is getting python working on your computer, and 
+> make sure you meet right away with a TA or instructor to ensure your environment is setup.
+> For those who are attending residency, we will be confirming it is setup on your laptops.
