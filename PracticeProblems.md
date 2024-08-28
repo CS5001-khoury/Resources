@@ -6,6 +6,7 @@ Problems are most often pulled from the following locations:
 * https://codingbat.com/python
 * https://www.hackerrank.com/domains/python
 * https://www.khanacademy.org/computing/intro-to-python-fundamentals 
+* https://www.codechef.com/practice/python
 
 
 ## Module 01: Getting Started with Python Expressions
