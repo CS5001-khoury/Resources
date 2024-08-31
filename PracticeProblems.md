@@ -8,9 +8,18 @@ Problems are most often pulled from the following locations:
 * https://www.khanacademy.org/computing/intro-to-python-fundamentals 
 * https://www.codechef.com/practice/python
 
+### Legend
+🔴🟠🟡🟢  - shows the difficulty of the problems as listed on the above websites. 
 
 ## Module 01: Getting Started with Python Expressions
 
+| Problem  | Difficulty |
+| -------- | ---------- |
+| [1. Print Function] | 🟢 Easy |
+| [2. Arithmetic Operators ] | 🟢 Easy |
+| [3. Division] | 🟢 Easy |
+| [4. What's your name?] | 🟢 Easy |
+| [5. Write a Function] | 🟠 Medium |
 
 
 ## Module 02: Boolean Expressions and Conditionals
@@ -41,3 +50,10 @@ No problems
 ## Module 11: Stacks and Queues
 
 ## Module 12: Searching & Sorting
+
+<!-- Auto Reference -->
+[1. Print Function]: https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
+[2. Arithmetic Operators]: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
+[3. Division]: https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
+[4. What's your name?]: https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
+[5. Write a Function]: https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
