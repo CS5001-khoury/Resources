@@ -9,34 +9,27 @@ Problems are most often pulled from the following locations:
 * https://www.khanacademy.org/computing/intro-to-python-fundamentals 
 * https://www.codechef.com/practice/python
 
-### Legend
-🔴🟠🟡🟢  - shows the difficulty of the problems as listed on the above websites. 
 
 ## Module 01: Getting Started with Python Expressions
-
-| Problem  | Difficulty |
-| -------- | ---------- |
-| [1. Print Function] | 🟢 Easy |
-| [2. Arithmetic Operators] | 🟢 Easy |
-| [3. Division] | 🟢 Easy |
-| [4. What's your name?] | 🟢 Easy |
-| [5. Write a Function] | 🟡 Medium |
 
 * [Exercise 1: Calculate the multiplication and sum of two numbers](https://pynative.com/python-basic-exercise-for-beginners/)
 
 * [Exercise 8: Print the following pattern](https://pynative.com/python-basic-exercise-for-beginners/)
 
-* [Exercise 12: Calculate income tax](https://pynative.com/python-basic-exercise-for-beginners/))
+* [Exercise 12: Calculate income tax](https://pynative.com/python-basic-exercise-for-beginners/)
+
+* [HackerRank - Arithmetic Operations](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
+
+* [HackerRank - Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)
+
 
 ## Module 02: Boolean Expressions and Conditionals
-| Problem  | Difficulty |
-| -------- | ---------- |
-| [6. If Else] | 🟢 Easy |
-| [7. String Validators] | 🟢 Easy |
-| [8. Find A String] | 🟢 Easy |
-| [9. love6] | 🟡 Medium |
-| [10. cigar_party] | 🟡 Medium |
 
+* [HackerRank - If Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)
+
+* [HackerRank - String Validators](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true )
+
+* [HackerRank - Find a String](https://www.hackerrank.com/challenges/find-a-string?isFullScreen=true)
 
 * [CodingBat - sleep in](https://codingbat.com/prob/p173401)
 
@@ -46,12 +39,25 @@ Problems are most often pulled from the following locations:
 
 ## Module 03: Functions and Testing
 
+* [HackerRank - Print Function](https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true)
+
+* [HackerRank - Write a Function](https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true)
+
+* [Exercise 4: Create a function with a default argument](https://pynative.com/python-functions-exercise-with-solutions/#h-exercise-4-create-a-function-with-a-default-argument)
+
+* [Exercise 3: Return multiple values from a function](https://pynative.com/python-functions-exercise-with-solutions/#h-exercise-3-return-multiple-values-from-a-function)
+
+* [Exercise 7: Assign a different name to function and call it through the new name](https://pynative.com/python-functions-exercise-with-solutions/#h-exercise-7-assign-a-different-name-to-function-and-call-it-through-the-new-name)
+
 ## Module 04: While Loops
-| Problem  | Difficulty |
-| -------- | ---------- |
-| [16. Loops] | 🟢 Easy |
+
+* [HackerRank - Loops](https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true)
 
 * [Exercise 6: Count the total number of digits in a number](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/)
+
+* [Exercise 7: Print the following pattern](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/#h-exercise-6-count-the-total-number-of-digits-in-a-number)
+
+* [Exercise 10: Display a message “Done” after the successful execution of the for loop](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/#h-exercise-10-display-a-message-done-after-the-successful-execution-of-the-for-loop)
 
 ## Module 05:  Strings and Lists
 
@@ -84,16 +90,3 @@ No problems
 
 ## Module 12: Searching & Sorting
 
-
-<!-- Auto Reference -->
-[1. Print Function]: https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
-[2. Arithmetic Operators]: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
-[3. Division]: https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
-[4. What's your name?]: https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
-[5. Write a Function]: https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
-[6. If Else]: https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
-[7. String Validators]: https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true 
-[8. Find A String]: https://www.hackerrank.com/challenges/find-a-string?isFullScreen=true
-[9. love6]: https://codingbat.com/prob/p119867
-[10. cigar_party]: https://codingbat.com/prob/p195669
-[16. Loops]: https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
