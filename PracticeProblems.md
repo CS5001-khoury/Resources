@@ -77,10 +77,19 @@ No problems
 
 ## Module 07: Recursion
 
+* [Exercise 2:  Write a Python program to convert an integer to a string in any base using recursion](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php)
+* [Exercise 10: Write a Python program to calculate the value of 'a' to the power of 'b' using recursion.](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php)
+
 
 ## Module 08: Error Handling
 
+* [Exercise 2: Write a Python program that prompts the user to input an integer and raises a ValueError exception if the input is not a valid integer.](https://www.w3resource.com/python-exercises/python-exception-handling-exercises.php)
+
+* [Exercise 4: Write a Python program that prompts the user to input two numbers and raises a TypeError exception if the inputs are not numerical.](https://www.w3resource.com/python-exercises/python-exception-handling-exercises.php)
+
+
 ## Module 09: Dictionaries and Sets
+
 
 ## Module 10: Classes and Objects
 
