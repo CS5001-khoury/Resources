@@ -19,16 +19,32 @@ Problems are most often pulled from the following locations:
 | [2. Arithmetic Operators ] | 🟢 Easy |
 | [3. Division] | 🟢 Easy |
 | [4. What's your name?] | 🟢 Easy |
-| [5. Write a Function] | 🟠 Medium |
+| [5. Write a Function] | 🟡 Medium |
 
 
 ## Module 02: Boolean Expressions and Conditionals
+| Problem  | Difficulty |
+| -------- | ---------- |
+| [6. If Else] | 🟢 Easy |
+| [7. String Validators] | 🟢 Easy |
+| [8. Alarm Clock ] | 🟢 Easy |
+| [9. love6 ] | 🟡 Medium |
+| [10. cigar_party] | 🟡 Medium |
 
 ## Module 03: Functions and Testing
+| Problem  | Difficulty |
+| -------- | ---------- |
+| [11. ] | 🟢 Easy |
+| [12.] | 🟢 Easy |
+| [13. ] | 🟢 Easy |
+| [14.] | 🟢 Easy |
+| [15 ] | 🟢 Easy |
 
 
 ## Module 04: While Loops
-
+| Problem  | Difficulty |
+| -------- | ---------- |
+| [16. Loops] | 🟢 Easy |
 
 ## Module 05:  Strings and Lists
 
@@ -57,3 +73,9 @@ No problems
 [3. Division]: https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true
 [4. What's your name?]: https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
 [5. Write a Function]: https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
+[6. If Else]: https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
+[7. String Validators]: https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true 
+[8. Alarm Clock]: https://codingbat.com/prob/p119867
+[9. love6]: https://codingbat.com/prob/p119867
+[10. cigar_party]: https://codingbat.com/prob/p195669
+[16. Loops]: https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
