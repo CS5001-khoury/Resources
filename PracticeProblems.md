@@ -16,7 +16,7 @@ Problems are most often pulled from the following locations:
 | Problem  | Difficulty |
 | -------- | ---------- |
 | [1. Print Function] | 🟢 Easy |
-| [2. Arithmetic Operators ] | 🟢 Easy |
+| [2. Arithmetic Operators] | 🟢 Easy |
 | [3. Division] | 🟢 Easy |
 | [4. What's your name?] | 🟢 Easy |
 | [5. Write a Function] | 🟡 Medium |
@@ -27,24 +27,19 @@ Problems are most often pulled from the following locations:
 | -------- | ---------- |
 | [6. If Else] | 🟢 Easy |
 | [7. String Validators] | 🟢 Easy |
-| [8. Alarm Clock ] | 🟢 Easy |
-| [9. love6 ] | 🟡 Medium |
+| [8. Find A String] | 🟢 Easy |
+| [9. love6] | 🟡 Medium |
 | [10. cigar_party] | 🟡 Medium |
 
+
 ## Module 03: Functions and Testing
-| Problem  | Difficulty |
-| -------- | ---------- |
-| [11. ] | 🟢 Easy |
-| [12.] | 🟢 Easy |
-| [13. ] | 🟢 Easy |
-| [14.] | 🟢 Easy |
-| [15 ] | 🟢 Easy |
 
 
 ## Module 04: While Loops
 | Problem  | Difficulty |
 | -------- | ---------- |
 | [16. Loops] | 🟢 Easy |
+
 
 ## Module 05:  Strings and Lists
 
@@ -55,6 +50,7 @@ No problems
 
 ## Module 07: Recursion
 
+
 ## Module 08: Error Handling
 
 
@@ -63,9 +59,12 @@ No problems
 
 ## Module 10: Classes and Objects
 
+
 ## Module 11: Stacks and Queues
 
+
 ## Module 12: Searching & Sorting
+
 
 <!-- Auto Reference -->
 [1. Print Function]: https://www.hackerrank.com/challenges/python-print/problem?isFullScreen=true
@@ -75,7 +74,7 @@ No problems
 [5. Write a Function]: https://www.hackerrank.com/challenges/whats-your-name/problem?isFullScreen=true
 [6. If Else]: https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true
 [7. String Validators]: https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true 
-[8. Alarm Clock]: https://codingbat.com/prob/p119867
+[8. Find A String]: https://www.hackerrank.com/challenges/find-a-string?isFullScreen=true
 [9. love6]: https://codingbat.com/prob/p119867
 [10. cigar_party]: https://codingbat.com/prob/p195669
 [16. Loops]: https://www.hackerrank.com/challenges/python-loops/problem?isFullScreen=true
