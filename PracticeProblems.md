@@ -90,8 +90,21 @@ No problems
 
 ## Module 09: Dictionaries and Sets
 
+* [Exercise 4: Write a Python script to check whether a given key already exists in a dictionary.](https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-4.php))
+
+* [Exercise 14: Write a Python program to sort a given dictionary by key.](https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-14.php)
+
+*  [Exercise 22: Write a Python program that finds all pairs of elements in a list whose sum is equal to a given value.](https://www.w3resource.com/python-exercises/sets/python-sets-exercise-22.php)
+
+* [Exercise 1: Two sum.](https://leetcode.com/problems/two-sum/description/)
 
 ## Module 10: Classes and Objects
+
+* [Exercise 9: Write a Python class named Student with two attributes student_name, marks. Modify the attribute values of the said class and print the original and modified values of the said attributes.](https://www.w3resource.com/python-exercises/class-exercises/python-class-basic-1-exercise-9.php)
+
+* [Exercise 10: Write a Python class named Student with two attributes student_id, student_name. Add a new attribute student_class and display the entire attribute and the values of the class. Now remove the student_name attribute and display the entire attribute with values.](https://www.w3resource.com/python-exercises/class-exercises/python-class-basic-1-exercise-10.php)
+
+* [Exercise 11: Write a Python class named Student with two attributes: student_id, student_name. Add a new attribute: student_class. Create a function to display all attributes and their values in the Student class.](https://www.w3resource.com/python-exercises/class-exercises/python-class-basic-1-exercise-11.php)
 
 
 ## Module 11: Stacks and Queues
