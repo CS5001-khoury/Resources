@@ -90,7 +90,7 @@ No problems
 
 ## Module 09: Dictionaries and Sets
 
-* [Exercise 4: Write a Python script to check whether a given key already exists in a dictionary.](https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-4.php))
+* [Exercise 4: Write a Python script to check whether a given key already exists in a dictionary.](https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-4.php)
 
 * [Exercise 14: Write a Python program to sort a given dictionary by key.](https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-14.php)
 
@@ -109,6 +109,19 @@ No problems
 
 ## Module 11: Stacks and Queues
 
+* [Exercise 1: Implement Stack using Queues.](https://leetcode.com/problems/implement-stack-using-queues/description/?envType=problem-list-v2&envId=stack&difficulty=EASY)
+
+* [Exercise 2:  Implement Queue using Stacks.](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=problem-list-v2&envId=stack&difficulty=EASY)
+
+* [Exercise 3:  Write a Python program to find the three largest integers from a given list of numbers using the heap queue algorithm.](https://www.w3resource.com/python-exercises/heap-queue-algorithm/python-heapq-exercise-1.php)
+
+* [Exercise 4: Write a Python program to find the three smallest integers from a given list of numbers using the heap queue algorithm.](https://www.w3resource.com/python-exercises/heap-queue-algorithm/python-heapq-exercise-2.php)
 
 ## Module 12: Searching & Sorting
+
+* [Exercise 1: Write a Python program for binary search.](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-1.php)
+
+* [Exercise 2: Write a Python program to sort a list of elements using the bubble sort algorithm.](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-4.php)
+
+* [Exercise 3: Majority Element.](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=sorting&difficulty=EASY)
 
