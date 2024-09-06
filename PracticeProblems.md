@@ -9,7 +9,6 @@ Problems are most often pulled from the following locations:
 * https://www.khanacademy.org/computing/intro-to-python-fundamentals 
 * https://www.codechef.com/practice/python
 
-
 ## Module 01: Getting Started with Python Expressions
 
 * [Exercise 1: Calculate the multiplication and sum of two numbers](https://pynative.com/python-basic-exercise-for-beginners/)
@@ -21,7 +20,6 @@ Problems are most often pulled from the following locations:
 * [HackerRank - Arithmetic Operations](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true)
 
 * [HackerRank - Division](https://www.hackerrank.com/challenges/python-division/problem?isFullScreen=true)
-
 
 ## Module 02: Boolean Expressions and Conditionals
 
@@ -63,6 +61,8 @@ Problems are most often pulled from the following locations:
 
 * [CodingBat - front back](https://codingbat.com/prob/p153599)
 
+* [HackerRank - String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)
+
 * [Exercise 5: Count all letters, digits, and special symbols from a given string](https://pynative.com/python-string-exercise/)
 
 * [Excercise 3: Turn every item of a list into its square](https://pynative.com/python-list-exercise-with-solutions/)
@@ -73,13 +73,20 @@ Problems are most often pulled from the following locations:
 
 ## Module 06: Midterm
 
-No problems
+* [HackerRank - collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true)
+
+* [HackerRank - itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true)
+
+* [CodingBat - rotate_left3](https://codingbat.com/prob/p148661)
+
+* [CodingBat - big_diff](https://codingbat.com/prob/p184853)
+
+* [PracticePython - List Overlap](https://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html)
 
 ## Module 07: Recursion
 
 * [Exercise 2:  Write a Python program to convert an integer to a string in any base using recursion](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php)
 * [Exercise 10: Write a Python program to calculate the value of 'a' to the power of 'b' using recursion.](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php)
-
 
 ## Module 08: Error Handling
 
@@ -87,6 +94,7 @@ No problems
 
 * [Exercise 4: Write a Python program that prompts the user to input two numbers and raises a TypeError exception if the inputs are not numerical.](https://www.w3resource.com/python-exercises/python-exception-handling-exercises.php)
 
+* [PracticePython - Error Checking](https://www.practicepython.org/exercise/2022/07/17/40-error-checking.html)
 
 ## Module 09: Dictionaries and Sets
 
@@ -94,7 +102,7 @@ No problems
 
 * [Exercise 14: Write a Python program to sort a given dictionary by key.](https://www.w3resource.com/python-exercises/dictionary/python-data-type-dictionary-exercise-14.php)
 
-*  [Exercise 22: Write a Python program that finds all pairs of elements in a list whose sum is equal to a given value.](https://www.w3resource.com/python-exercises/sets/python-sets-exercise-22.php)
+* [Exercise 22: Write a Python program that finds all pairs of elements in a list whose sum is equal to a given value.](https://www.w3resource.com/python-exercises/sets/python-sets-exercise-22.php)
 
 * [Exercise 1: Two sum.](https://leetcode.com/problems/two-sum/description/)
 
@@ -105,7 +113,6 @@ No problems
 * [Exercise 10: Write a Python class named Student with two attributes student_id, student_name. Add a new attribute student_class and display the entire attribute and the values of the class. Now remove the student_name attribute and display the entire attribute with values.](https://www.w3resource.com/python-exercises/class-exercises/python-class-basic-1-exercise-10.php)
 
 * [Exercise 11: Write a Python class named Student with two attributes: student_id, student_name. Add a new attribute: student_class. Create a function to display all attributes and their values in the Student class.](https://www.w3resource.com/python-exercises/class-exercises/python-class-basic-1-exercise-11.php)
-
 
 ## Module 11: Stacks and Queues
 
@@ -124,4 +131,5 @@ No problems
 * [Exercise 2: Write a Python program to sort a list of elements using the bubble sort algorithm.](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-4.php)
 
 * [Exercise 3: Majority Element.](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=sorting&difficulty=EASY)
+
 
