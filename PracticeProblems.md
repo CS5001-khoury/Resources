@@ -27,8 +27,6 @@ Problems are most often pulled from the following locations:
 
 * [HackerRank - String Validators](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true )
 
-* [HackerRank - Find a String](https://www.hackerrank.com/challenges/find-a-string?isFullScreen=true)
-
 * [CodingBat - sleep in](https://codingbat.com/prob/p173401)
 
 * [CodingBat - monkey trouble](https://codingbat.com/prob/p120546)
@@ -83,6 +81,8 @@ Problems are most often pulled from the following locations:
 
 * [PracticePython - List Overlap](https://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html)
 
+* [HackerRank - Find a String](https://www.hackerrank.com/challenges/find-a-string?isFullScreen=true)
+
 ## Module 07: Recursion
 
 * [Exercise 2:  Write a Python program to convert an integer to a string in any base using recursion](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-recursion.php)
@@ -131,5 +131,3 @@ Problems are most often pulled from the following locations:
 * [Exercise 2: Write a Python program to sort a list of elements using the bubble sort algorithm.](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-4.php)
 
 * [Exercise 3: Majority Element.](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=sorting&difficulty=EASY)
-
-
