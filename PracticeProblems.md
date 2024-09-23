@@ -63,13 +63,13 @@ Problems are most often pulled from the following locations:
 
 * [Exercise 5: Count all letters, digits, and special symbols from a given string](https://pynative.com/python-string-exercise/)
 
-* [Excercise 3: Turn every item of a list into its square](https://pynative.com/python-list-exercise-with-solutions/)
+* [Exercise 3: Turn every item of a list into its square](https://pynative.com/python-list-exercise-with-solutions/)
 
 * [Exercise 6: Remove empty strings from the list of strings](https://pynative.com/python-list-exercise-with-solutions/)
 
 * [Exercise 10: Remove all occurrences of a specific item from a list](https://pynative.com/python-list-exercise-with-solutions/)
 
-## Module 06: Midterm
+## Module 06: For Loops
 
 * [HackerRank - collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem?isFullScreen=true)
 
