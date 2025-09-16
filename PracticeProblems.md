@@ -29,8 +29,6 @@ Problems are most often pulled from the following locations:
 
 * [HackerRank - If Else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)
 
-* [HackerRank - String Validators](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true )
-
 * [CodingBat - sleep in](https://codingbat.com/prob/p173401)
 
 * [CodingBat - monkey trouble](https://codingbat.com/prob/p120546)
@@ -88,6 +86,8 @@ Problems are most often pulled from the following locations:
 * [HackerRank - itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem?isFullScreen=true)
 
 * [HackerRank - Find a String](https://www.hackerrank.com/challenges/find-a-string?isFullScreen=true)
+
+* [HackerRank - String Validators](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true )
 
 * [CodingBat - rotate_left3](https://codingbat.com/prob/p148661)
 
@@ -158,3 +158,4 @@ Problems are most often pulled from the following locations:
 * [w3resource - Bubble sort](https://www.w3resource.com/python-exercises/data-structures-and-algorithms/python-search-and-sorting-exercise-4.php)
 
 * [Leetcode - Majority Element](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=sorting&difficulty=EASY)
+
