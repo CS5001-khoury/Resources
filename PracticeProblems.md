@@ -47,6 +47,7 @@ Problems are most often pulled from the following locations:
 
 * [PyNative - (Exercise 4) Create a function with a default argument](https://pynative.com/python-functions-exercise-with-solutions/#h-exercise-4-create-a-function-with-a-default-argument)
 
+
 * [w3resource - (Exercise 1) Write a Python function to find the maximum of three numbers](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
 
 * [w3resource - (Exercise 6) Write a Python function to check whether a number falls within a given range](https://www.w3resource.com/python-exercises/python-functions-exercises.php)
@@ -59,7 +60,6 @@ Problems are most often pulled from the following locations:
 
 * [CodeChef - Count](https://www.codechef.com/practice/course/python/LPPYAS11/problems/LPYAS110B)
 
-* [PyNative - (Exercise 6) Count the total number of digits in a number](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/)
 
 * [PyNative - (Exercise 7) Print the following pattern](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/#h-exercise-6-count-the-total-number-of-digits-in-a-number)
 
@@ -71,11 +71,13 @@ Problems are most often pulled from the following locations:
 
 * [HackerRank - String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)
 
-* [CodeChef - Average Score](https://www.codechef.com/practice/course/python/LPPYAS06/problems/LPYAS60B)
 
-* [PyNative - (Exercise 5) Count all letters, digits, and special symbols from a given string](https://pynative.com/python-string-exercise/)
+* [PyNative - (Exercise 5) Count all letters, digits, and special symbols from a given string](https://pynative.com/python-string-exercise/#h-exercise-5-count-all-letters-digits-and-special-symbols-from-a-given-string)
+  
+  
+* [PyNative - (Exercise 6) Count the total number of digits in a number](https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/)
 
-* [PyNative - (Exercise 10) Remove all occurrences of a specific item from a list](https://pynative.com/python-list-exercise-with-solutions/)
+* [PyNative - (Exercise 13) Remove all occurrences of a specific item from a list](https://pynative.com/python-list-exercise-with-solutions/#h-exercise-12-remove-duplicates-from-list)
 
 ## Module 06: For Loops
 
